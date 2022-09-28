@@ -1,0 +1,27 @@
+{
+    "key": "users",
+    "id": "1",
+    "name": "Zahra",
+    "age": "21",
+    "email": "coool@coooooool.com",
+    "phone": "074840384038",
+    "password": "secret123",
+    "pfp": "cool pic of Zahra",
+    "bgpic": "cool pic of something cool",
+    "Content": [
+        {
+            "key": "posts",
+            "post": "a tweet",
+            "comment": "comments about things",
+            "   reply": "replies to the comment"
+        },
+        {
+            "key": "chats",
+            "name": "Zahra",
+            "username": "zazzyk",
+            "pfp": "cool pic of Zahra",
+            "messages": "secret message",
+            "replies": "replies to the secret message from secret user"
+        }
+    ]
+}
